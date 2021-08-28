@@ -38,11 +38,17 @@ function App() {
           <Header />
           <AppBody>
             <Sidebar />
+
+            
+
             <Switch>
               <Route path='/' exact>
                 <Chat />
               </Route>
             </Switch>
+
+
+
           </AppBody>
         </>
       )}
