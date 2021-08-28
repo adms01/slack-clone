@@ -4,7 +4,7 @@
 
 ## What is it?
 
-This is the frontend web app designed to mimic sending and receiving messages within channels.
+This is a frontend web app designed to mimic sending and receiving messages within channels.
 
 ![](https://github.com/adms01/slack-clone/blob/master/preview/slack_desktop.gif)
 
